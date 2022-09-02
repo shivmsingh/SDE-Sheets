@@ -63,7 +63,6 @@ const Home = () => {
             onNotesChange={handleNotesChange}
           />
           <Row justify="center" css={{ py: "20px" }}>
-            <Text>Made with 💜 by Satyam Singh</Text>
           </Row>
         </Container>
       )}
